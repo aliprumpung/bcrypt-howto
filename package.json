@@ -1,0 +1,26 @@
+{
+  "name": "bcrypt-howto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "dotenv": "^5.0.1",
+    "express-generator": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliprumpung/bcrypt-howto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliprumpung/bcrypt-howto/issues"
+  },
+  "homepage": "https://github.com/aliprumpung/bcrypt-howto#readme"
+}
